@@ -1,0 +1,11 @@
+
+This is a simple dictionary library and GUI Frontend written in C++.
+
+- Uses a QT4 Interface.
+- Demonstrates the ability to write an Iterator with acts like a value (various operator overloading)
+- Converts strings into unique numbers which are stored in a hash table and reversed again
+- Uses boost::shared ptr
+- Uses exceptions
+- Stores booleans in a vector STL container
+
+For a screenshot see screenshot.png
